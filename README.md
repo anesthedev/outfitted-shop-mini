@@ -1,0 +1,1 @@
+# outfitted-shop-mini
