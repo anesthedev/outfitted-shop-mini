@@ -1,0 +1,11 @@
+{
+  "name": "Shopfit",
+  "features": [
+    "FULL_BLEED_VIEWER",
+    "STANDALONE"
+  ],
+  "permissions": [
+    "GALLERY",
+    "CAMERA"
+  ]
+}
