@@ -1,10 +1,10 @@
-# Shopfit - Shop Mini Foundation
+# Outfitted - Shop Mini Foundation
 
 A Shopify Shop Mini application built during Hackdays 2025 as a foundation for outfit and fashion-related shopping experiences.
 
 ## What is this project?
 
-Shopfit is a Shop Mini - a lightweight application that runs natively within the Shopify mobile app. Currently, this project serves as a foundational template that demonstrates core Shop Mini capabilities including product integration, native device features, and user interface components that could power future outfit and fashion discovery features.
+Outfitted is a Shop Mini - a lightweight application that runs natively within the Shopify mobile app. Currently, this project serves as a foundational template that demonstrates core Shop Mini capabilities including product integration, native device features, and user interface components that could power future outfit and fashion discovery features.
 
 ## What are Shop Minis?
 
