@@ -126,6 +126,16 @@ export function HomeScreen() {
               navigation.navigate('GettingStarted.NativeFeatures')
             }}
           />
+          <Box marginTop="s">
+            <Button
+              text="📸 Multi-Photo Logger"
+              variant="secondary"
+              size="l"
+              onPress={() => {
+                navigation.navigate('GettingStarted.CameraLog')
+              }}
+            />
+          </Box>
         </Box>
       </ScrollView>
     </SafeAreaView>
